@@ -1,5 +1,7 @@
 # 2023-GP1-9
 Riyadh Guide
+
+
 Introduction
 Vision 2030 aims to make the Saudi capital, Riyadh, a unique and attractive tourist
 destination, offering a rich array of cultural heritage, historical sites, natural wonders,
