@@ -16,7 +16,9 @@ time whether on social media or Google map and getting all the information about
 place, also to avoid wasting time while seeking reviews about the place and obtaining an
 honest opinion. The technological solution helps save time and effort while searching for
 places in an efficient way, moreover, obtaining all the information without contacting the
-authorities or going to them. This document will provide an overview of the problem, the
+authorities or  going to them. This document will provide an overview of the problem, the
 proposed solution, the product vision, the product roadmap, the objectives of the project,
 the scope, hardware/software tools, and the cost of the application development, scrum
-team, and at the end the references.
+team, and at the end the references. 
+
+Technology Used : Flutter, python , Google Maps API
