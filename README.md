@@ -23,4 +23,4 @@ proposed solution, the product vision, the product roadmap, the objectives of th
 the scope, hardware/software tools, and the cost of the application development, scrum
 team, and at the end the references. 
 
-Technology Used : Flutter, python , Google Maps API
+Technology Used : Flutter, Python , X(Twitter) API
